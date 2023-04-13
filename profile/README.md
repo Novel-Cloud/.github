@@ -11,6 +11,6 @@
 - Kotiln / Spring / JPA
 - Authorization : Spring Security
 - DOCS : Swagger
-- DB : MySql
+- DB : MySql, Redis
 - AWS: EC2 t2.small, S3, CloudFront
 - Test: junit, mockk
